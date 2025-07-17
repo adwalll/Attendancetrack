@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1234567890,
+    "name": "Physics",
+    "totalClasses": 5,
+    "attendedClasses": 4
+  },
+  {
+    "id": 1234567891,
+    "name": "Chemistry",
+    "totalClasses": 3,
+    "attendedClasses": 2
+  }
+]
+
